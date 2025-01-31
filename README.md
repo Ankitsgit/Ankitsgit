@@ -1,4 +1,3 @@
-# Ankitgit
 <h1 align="center">Hi 👋, I'm Ankit Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,6 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsgit" alt="ankitsgit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitshtwt" target="blank"><img src="https://img.shields.io/twitter/follow/ankitshtwt?logo=twitter&style=for-the-badge" alt="ankitshtwt" /></a> </p>
+
+- 🔭 I’m currently working on **fronted skills**
+
+- 🌱 I’m currently learning **fullstack**
+
+- 📫 How to reach me **ankit77us@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsgit&show_icons=true&locale=en" alt="ankitsgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsgit&" alt="ankitsgit" /></p>
+
