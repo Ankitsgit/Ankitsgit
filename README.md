@@ -1,4 +1,3 @@
-<img src="./assets/images/herobanner.png">
 
 # 💫 About Me:
 # Hey! I'm Ankit Shukla a Full-Stack Developer.
