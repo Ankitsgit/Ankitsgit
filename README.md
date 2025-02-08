@@ -1,8 +1,6 @@
 
 # 💫 About Me:
-# Hey! I'm Ankit Shukla a Full-Stack Developer.
-<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>
-
+# Hey! I'm Ankit Shukla.
 
 ## 🌐 Socials:-
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-shuklaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnkitShtwt) 
