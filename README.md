@@ -19,12 +19,13 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsgittheme=nightowl&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsgit&theme=nightowl&hide_border=false)<br/>
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankitsgit&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+ 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
