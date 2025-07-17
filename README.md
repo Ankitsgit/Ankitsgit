@@ -1,34 +1,177 @@
+<h1 align="center">Hi 👋, I’m Ankit</h1>
+<h3 align="center">Backend Developer | MERN Stack  | Building Scalable Solutions</h3>
 
-# 💫 About Me:
-# Hey! I'm Ankit Shukla.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Node.js+%7C+Express+%7C+MongoDB;React+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+%7C+Building+%7C+Exploring" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/AnkitShtwt)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/ankit-shuklaa)
-[![GitHub followers](https://img.shields.io/github/followers/Ankitsgit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ankitsgit?tab=followers)
-
-
-
-<detail>
-<summary><h2>My Most Used Languages</h2></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsgit&layout=compact&theme=blue-green">
-</detail>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsgit&theme=nightowl&hide_border=false)<br/>
-
-
+<p align="center">
+  <a href="mailto:ankit77us@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankitsgit&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
- 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 👨‍💻 About Me
+
+- 🎓 Final-year B.Tech Computer Science And Engineering student passionate about building backend systems and real-world applications  
+- 🚀 Currently working on **Ustaadx** — a skill-sharing & discovery platform  
+- 🧠 Focused on MERN stack development, authentication systems, and scalable backend APIs  
+- 🔧 Backend: **Node.js**, **Express**, **MongoDB**, **JWT**, **Socket.io**  
+- 🌐 Frontend: **React**, **Next.js**, **Tailwind CSS**  
+- 📚 Always exploring new backend tech, DevOps practices, and system design
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Backend:        Node.js, Express, MongoDB, JWT, Socket.io
+Frontend:       React, Next.js, Tailwind CSS
+Mobile:         React Native (Learning)
+DevOps:         Docker, GitHub Actions (Learning)
+Tools & Infra:  Postman, Figma, Git, VSCode, Render, Railway
+````
+
+---
+
+### 🏆 Notable Projects
+
+<table>
+  <tr>
+<td width="50%" valign="top">
+  <h3>🚀 TripBozo</h3>
+  <ul>
+    <li>Curated, country-specific apps for travel: ride-hailing, maps, food delivery & more</li>
+    <li>Essentials hub: eSIMs, insurance, emergency contacts, local phrases & pro tips</li>
+    <li>One QR to install all recommended apps instantly—no signup, no fuss</li>
+    <li>Stack: Next.js frontend • Django REST backend • Redis + Celery for async QR generation</li>
+    <li>Live: <a href="https://tripbozo.com/" target="_blank">tripbozo.com</a></li>
+  </ul>
+
+  <p>
+    <a href="https://github.com/Ankitsgit/tripbozo" target="_blank">
+      <img src="https://img.shields.io/github/stars/Ankitsgit/tripbozo?style=social" alt="Frontend Stars" />
+    </a>
+    <a href="https://github.com/Ankitsgit/tripbozo"" target="_blank">
+      <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
+    </a>
+    <a href="https://github.com/suryansh-it/travel_buddy" target="_blank">
+      <img src="https://img.shields.io/badge/View-Backend-171515?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo" />
+    </a>
+  </p>
+</td>
+   <td width="50%" valign="top">
+  <h3>🌐 UstaadX</h3>
+  <ul>
+    <li>Peer-to-Peer Skill Exchange Platform</li>
+    <li>Skill Exchange Posts: Offer a skill and seek another in return</li>
+    <li>Real-Time Messaging: Built-in chat using Socket.IO </</li>
+     <li>JWT Auth: Secure login and route protection</</li>
+    <li> Booking System: Schedule or request sessions </li>
+    <li>Personal Dashboard: View and manage your exchanges </li>
+   <li>Stack: React frontend • Express Node backend • Socket.io + http for Real-Time Messaging </li>
+  </ul>
+  <p>
+    <a href="https://github.com/Ankitsgit/ustaadx-backend">
+      <img src="https://img.shields.io/github/stars/Ankitsgit/ustaadx-backend?style=social" alt="Stars" />
+    </a>
+    <a href="https://github.com/Ankitsgit/ustaadx-backend">
+      <img src="https://img.shields.io/badge/View-Backend-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Backend" />
+    </a>
+<!--      <a href="https://github.com/Ankitsgit/ustaadx">
+      <img src="https://img.shields.io/github/stars/Ankitsgit/ustaadx?style=social" alt="Stars" />
+    </a> -->
+    <a href="https://github.com/Ankitsgit/ustaadx">
+      <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Frontend" />
+    </a>
+  </p>
+</td>
+
+  </tr>
+  <tr>
+<!--     <td width="50%" valign="top">
+      <h3>🌿 UstaadX</h3>
+      <ul>
+        <li>Ayurvedic remedies platform with user contributions</li>
+        <li>Django REST + PostgreSQL, JWT‑secured endpoints</li>
+        <li>Redis caching & Celery for async tasks</li>
+        <li>Next.js frontend with expert-verified entries</li>
+      </ul>
+      <p>
+        <a href="https://github.com/suryansh-it/MedVeda">
+          <img src="https://img.shields.io/github/stars/Ankitshit/UstaadX-backend?style=social" alt="Stars" />
+        </a>
+        <a href="https://github.com/Ustaad/MedVeda">
+          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
+        </a>
+      </p>
+    </td> -->
+<!--     <td width="50%" valign="top">
+      <h3>💼 Portfolio Website</h3>
+      <ul>
+        <li>Personal site showcasing projects, skills & upcoming blog</li>
+        <li>Responsive design with animations & dark/light mode</li>
+        <li>Live: <a href="https://suryansharma-portfolio.netlify.app/">suryansharma-portfolio.netlify.app</a></li>
+      </ul>
+      <p>
+        <a href="https://github.com/suryansh-it/portfolio">
+          <img src="https://img.shields.io/github/stars/suryansh-it/portfolio?style=social" alt="Stars" />
+        </a>
+        <a href="https://github.com/suryansh-it/portfolio">
+          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
+        </a>
+      </p>
+    </td> -->
+  </tr>
+</table>
+
+---
+
+
+
+### 🎓 Education
+
+**B.Tech in Computer Science And Engineering**
+Samrat Ashok Technological Institute, Vidisha (Jun 2026)&#x20;
+
+---
+
+### 🤝 Social Initiatives
+
+* Organized & coordinated the internal college round of **Smart India Hackathon 2024**&#x20;
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Ankitsgit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/ankit-shuklaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ankit77us@gmail.com" ><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<!--   <a href="https://leetcode.com/u/suryansharma09"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> -->
+</p>
+
+---
+
+### 📊 GitHub Stats & Streak
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ankitsgit&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsgit&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/Ankitsgit" alt="github chart" /> </p>
+
+---
+
+<details>
+  <summary>🔍 Currently Learning</summary>
+  <ul>
+    <li>DevOps: Docker, Kubernetes, CI/CD pipelines</li>
+    <li>Advanced Prompt Engineering & LLM Agents</li>
+  </ul>
+</details>
+
+
+
+
 
 
 
