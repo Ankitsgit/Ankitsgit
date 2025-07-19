@@ -19,7 +19,7 @@
 - 🚀 Currently working on **Ustaadx** — a skill-sharing & discovery platform  
 - 🧠 Focused on MERN stack development, authentication systems, and scalable backend APIs  
 - 🔧 Backend: **Node.js**, **Express**, **MongoDB**, **JWT**, **Socket.io**  
-- 🌐 Frontend: **React**, **Next.js**, **Tailwind CSS**  
+- 🌐 Frontend: **React**, **Next.js**, **Tailwind CSS** 
 - 📚 Always exploring new backend tech, DevOps practices, and system design
 
 ---
@@ -27,6 +27,7 @@
 ### 🧰 Tech Stack
 
 ```yaml
+Languages:      Javascript,Python,Typescript,SQL,HTML/CSS
 Backend:        Node.js, Express, MongoDB, JWT, Socket.io
 Frontend:       React, Next.js, Tailwind CSS
 Mobile:         React Native (Learning)
