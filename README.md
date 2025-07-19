@@ -53,7 +53,7 @@ Tools & Infra:  Postman, Figma, Git, VSCode, Render, Railway
 
   <p>
     <a href="https://github.com/Ankitsgit/tripbozo" target="_blank">
-      <img src="https://img.shields.io/github/stars/Ankitsgit/tripbozo?style=social" alt="Frontend Stars" />
+      <img src="https://img.shields.io/github/stars/Ankitsgit/tripbozofrontend?style=social" alt="Frontend Stars" />
     </a>
     <a href="https://github.com/Ankitsgit/tripbozo"" target="_blank">
       <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
