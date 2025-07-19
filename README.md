@@ -72,6 +72,7 @@ Tools & Infra:  Postman, Figma, Git, VSCode, Render, Railway
     <li> Booking System: Schedule or request sessions </li>
     <li>Personal Dashboard: View and manage your exchanges </li>
    <li>Stack: React frontend • Express Node backend • Socket.io + http for Real-Time Messaging </li>
+    <li>Live: <a href="https://ustaad-x.vercel.app/" target="_blank">UstaadX</a></li>
   </ul>
   <p>
     <a href="https://github.com/Ankitsgit/ustaadx-backend">
