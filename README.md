@@ -52,10 +52,10 @@ Tools & Infra:  Postman, Figma, Git, VSCode, Render, Railway
   </ul>
 
   <p>
-    <a href="https://github.com/Ankitsgit/tripbozo" target="_blank">
+    <a href="https://github.com/Ankitsgit/tripbozofrontend" target="_blank">
       <img src="https://img.shields.io/github/stars/Ankitsgit/tripbozofrontend?style=social" alt="Frontend Stars" />
     </a>
-    <a href="https://github.com/Ankitsgit/tripbozo"" target="_blank">
+    <a href="https://github.com/Ankitsgit/tripbozofrontend"" target="_blank">
       <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
     </a>
     <a href="https://github.com/suryansh-it/travel_buddy" target="_blank">
